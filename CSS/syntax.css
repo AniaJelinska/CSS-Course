@@ -1,19 +1,5 @@
 #banner{
-    background-color: #606066; 
     width: 100%;
-    height: 300px; 
-    background-image: url(https://image.ceneostatic.pl/data/products/11120168/i-szablon-gwiazdka.jpg), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehPpAqafMMxFGnXK3OzIkleJjYzvtIrAw0pv2R0NmvbQmdTn8);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+    height: 300px;
+    background-color: rgb(250, 150, 60);
 }
-
-
-
-/*
-
-https://image.ceneostatic.pl/data/products/11120168/i-szablon-gwiazdka.jpg
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0rPUWzStzFnz1jZFcAl-D7dad11v0wQL2YvHTFxep-ALLNgg
-
-*/
-
